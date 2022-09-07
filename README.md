@@ -6,18 +6,12 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/rguitar/business-scout">
-    <img src="img/dalle-logo.png" alt="Logo" width="80" height="80">
+    <img src="img/dalle-logo.png" alt="Logo" width="150" height="150">
   </a>
 <br/>
 <i>
@@ -39,16 +33,15 @@ This unnecesary logo was automatically generated using DALL-E AI.
 
 I built this project during my customer development process at Entrepreneur First. It saved me quite some time to scrape, structure and store businesses that I wanted to interview for our use case.
 
-Above, a sample for looking for electricians in Berlin is shown.
+Below, a sample for looking for electricians in Berlin is shown.
 
-<img src="img/screenshot.png" alt="Screenshot">
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<div align="center">
+  <img src="img/screenshot.png" alt="Screenshot" width="75%" height="75%">
+</div>
 
 ### Built With
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -64,8 +57,6 @@ Using the script is really straight-forward, but you will need two free API keys
    git clone https://github.com/rguitar96/business-scout.git
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
@@ -77,14 +68,11 @@ python business-scout.py
 
 Then, you will be asked a set of parameters to make your search.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -95,4 +83,3 @@ Rodrigo Pueblas - [@rguitar96](https://twitter.com/rguitar96) - rodrigo.pueblas@
 
 Project Link: [https://github.com/rguitar96/business-scout](https://github.com/rguitar96/business-scout)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
