@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/rguitar/business-scout">
+  <a href="https://github.com/rguitar96/business-scout">
     <img src="img/dalle-logo.png" alt="Logo" width="150" height="150">
   </a>
 <br/>
